@@ -12,5 +12,3 @@ application/logs/*.php
 *.tmp
 /attach/cache/
 /attach/
-/application/cache/_bancha/*.css
-/application/cache/_bancha/*.js
